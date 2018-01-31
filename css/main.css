@@ -1,0 +1,23 @@
+body {
+  background-image: url(../assets/images/foodheart.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.parallax-container {
+  height: 200px;
+}
+
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+main {
+  flex: 1 0 auto;
+}
+
+nav-extended {
+  background-color: rgba(255, 255, 255, 0.5);
+}

@@ -1,0 +1,78 @@
+#user_photo {
+  margin-top: 5vh;
+  height: 50vh;
+  border: 1px solid black;
+}
+
+#photo-news {
+  margin: 0 auto;
+  margin-top: 5vh;
+  height: 30vh;
+  border: 1px solid black;
+}
+
+#photo-friends {
+  margin-top: 5vh;
+  height: 50vh;
+  border: 1px solid black;
+  width: 90%;
+}
+
+.user {
+  text-align: center;
+  font-size: 1.5em;
+  font-family: 'Kadwa', serif;
+}
+
+hr {
+  width: 80%;
+  background-color: #f4ede6;
+}
+
+.action {
+  background-color: #f4ede6;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: 'Kadwa', serif;
+  font-size: 1.5em;
+}
+
+.action:hover {
+  background-color: rgb(215, 110, 118);
+}
+
+.option {
+  margin-top: 10vh;
+}
+
+.card-users {
+  margin-top: 15vh;
+  margin-left: 5vh;
+  margin-right: 10vh;
+  width: 90%;
+}
+
+.another-user {
+  float: right;
+}
+
+.card-friends {
+  margin-top: 15vh;
+  margin-left: 5vh;
+  margin-right: 10vh;
+  width: 50%;
+}
+
+#text {
+  background-color: #fcc2c2;
+  border-radius: 12px;
+  font-family: 'Pontano Sans', sans-serif;
+  margin-left: 20vh;
+  padding: 1.5em;
+  height: 10vh;
+}
+
+
+.parallax-container {
+  height: 250px;
+}
